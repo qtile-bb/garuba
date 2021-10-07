@@ -1,0 +1,4 @@
+lx session lxsession-edit
+ lxtask
+in  garuda-welcome-git (deleted package)- qt5-base, qwikaccess, xdg-utils
+also nvidia-settings and greenwithenvy for fan config
